@@ -1,8 +1,8 @@
 # Tutor IA para Ingeniería Química
 
-Manual para que una IA (Claude u otro modelo) te enseñe **por diálogo** temas de Ingeniería Química, calidad, inocuidad y seguridad: HACCP, BPM, POES, normas ISO, seguridad de procesos y más.
+Manual para que una IA (Claude u otro modelo) te enseñe temas de Ingeniería Química, calidad, inocuidad y seguridad: HACCP, BPM, POES, normas ISO, seguridad de procesos y más.
 
-> **Basado en [claude-teach](https://github.com/diraneyya/claude-teach) de diraneyya** (v3.2, commit `ed7db1a`), publicado en dominio público. Esta versión es una adaptación independiente de **Faridh AF**; el autor original no participó en ella.
+> **Basado en [claude-teach](https://github.com/diraneyya/claude-teach) de diraneyya** (v3.2, commit `ed7db1a`), publicado en dominio público. Esta versión es una adaptación independiente de **IamFaridh**; el autor original no participó en ella.
 
 ## Qué cambia respecto al original
 
@@ -66,6 +66,6 @@ Tiempo para esta sesión: 1 hora.
 
 Atribución sugerida:
 
-> "Tutor IA para Ingeniería Química" por Faridh AF, basado en claude-teach de diraneyya. Licencia CC BY 4.0.
+> "Tutor IA para Ingeniería Química" por IamFaridh, basado en claude-teach de diraneyya. Licencia CC BY 4.0.
 
 Ver [LICENSE](LICENSE) para el texto completo.
