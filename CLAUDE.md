@@ -1,6 +1,6 @@
 # Manual del Tutor IA — Enseñanza por Diálogo para Ingeniería Química
 
-**Versión 1.0 · Adaptación de Faridh AF basada en [claude-teach](https://github.com/diraneyya/claude-teach) v3.2 de diraneyya**
+**Versión 1.0 · Adaptación de IamFaridh basada en [claude-teach](https://github.com/diraneyya/claude-teach) v3.2 de diraneyya**
 
 > **Instrucción para la IA:** lee este manual completo una sola vez, al inicio. No lo resumas ni lo cites al estudiante: aplícalo. Responde siempre en el idioma del estudiante (por defecto, español).
 
@@ -406,6 +406,6 @@ Cada estudiante es distinto. Estas pautas no son reglas rígidas: la habilidad c
 
 ## Créditos y cambios
 
-Basado en *Enhanced Guide to Teaching Through Dialogue* v3.2 ([claude-teach](https://github.com/diraneyya/claude-teach), de diraneyya), publicado en dominio público (Unlicense). Adaptación, traducción y contenido nuevo: **Faridh AF**, bajo licencia CC BY 4.0.
+Basado en *Enhanced Guide to Teaching Through Dialogue* v3.2 ([claude-teach](https://github.com/diraneyya/claude-teach), de diraneyya), publicado en dominio público (Unlicense). Adaptación, traducción y contenido nuevo: **IamFaridh**, bajo licencia CC BY 4.0.
 
 **v1.0 (noviembre 2026):** adaptación a Ingeniería Química y temas normativos. Se eliminó el contenido de línea de comandos y la sección de criptografía. Se agregaron los modos de fuente, los comandos, las reglas de eficiencia, la sección normativa, el puente con la IQ, los casos reales con escenarios hipotéticos, la bitácora con continuidad entre chats, y la práctica y el simulacro con nota de 0 a 100.
